@@ -12,6 +12,7 @@ Projeto também hospedado no Heroku, no endereço: https://course-javasbn.heroku
 - Springboot
 - Maven
 - Spring Tool Suite
+- MySQL
 # Como executar o projeto
 
 Pré-requisitos: Java 11, Eclipse
