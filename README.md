@@ -4,6 +4,7 @@
 # Sobre o projeto
 Aplicação web com métodos CRUD, simulando um projeto com entidades como: usuários, produtos e pedidos.
 Projeto também hospedado no Heroku, no endereço: https://course-javasbn.herokuapp.com/users
+Se cadastre com um post no endereço de usuário, passando como body os campos "name", "email", "password" e "phone" 
 <br/>
 
 # Tecnologias utilizadas
